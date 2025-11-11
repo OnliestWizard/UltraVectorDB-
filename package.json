@@ -1,0 +1,26 @@
+{
+  "name": "ultra-vector-db",
+  "version": "0.1.0",
+  "description": "Multi-Precision Semantic Vector Database – Research Prototype (2025 Alpha)",
+  "main": "ultra_vector_db_demo.ts",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node ultra_vector_db_demo.ts",
+    "test": "node ultra_vector_db_demo.ts"
+  },
+  "keywords": [
+    "vector-db",
+    "semantic-search",
+    "AI",
+    "HNSW",
+    "matryoshka-embeddings",
+    "typescript",
+    "research"
+  ],
+  "author": "Matthew Parrott (OnliestWizard)",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
